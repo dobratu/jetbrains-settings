@@ -1,12 +1,12 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+<scheme name="dobratu" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-02-02T23:15:24</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-02-04T14:46:58</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="created">2017-02-04T17:07:03</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.4.0.0</property>
+    <property name="modified">2017-02-04T17:10:41</property>
+    <property name="originalScheme">Darcula copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
