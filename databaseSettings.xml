@@ -1,6 +1,5 @@
 <application>
   <component name="DatabaseSettings">
-    <option name="submit-immediately" value="true" />
     <csv-formats>
       <csv-format name="Tab-separated (TSV)">
         <data>
