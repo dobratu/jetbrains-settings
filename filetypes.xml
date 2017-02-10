@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gql" type="GraphQL" />
       <mapping pattern="personalAddress" type="GraphQL Schema" />
+      <mapping pattern="time-tracker" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
