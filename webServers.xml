@@ -2,9 +2,9 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="31ceaa65-eb53-435d-baec-13b3a8a25a71" name="docker" url="http://192.168.56.101">
-        <fileTransfer host="192.168.56.101" port="22" rootFolder="/home/michal/Projects/scalar" accessType="SFTP">
+        <fileTransfer host="192.168.56.101" port="22" accessType="SFTP">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
