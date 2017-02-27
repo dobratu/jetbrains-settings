@@ -5,6 +5,7 @@
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="time-tracker" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="OUTPUT" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="pegjs" type="PLAIN_TEXT" />
     </extensionMap>
