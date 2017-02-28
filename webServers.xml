@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="fb053e5d-d9ee-4ac5-be66-fc7411325b54" name="arubacloud" url="http://89.46.196.50">
+        <fileTransfer host="89.46.196.50" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="31ceaa65-eb53-435d-baec-13b3a8a25a71" name="docker" url="http://192.168.56.101">
         <fileTransfer host="192.168.56.101" port="22" accessType="SFTP">
           <advancedOptions>
