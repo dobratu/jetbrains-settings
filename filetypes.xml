@@ -1,14 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gql" type="GraphQL" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="time-tracker" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
+      <mapping pattern="ElFinder" type="PLAIN_TEXT" />
       <mapping pattern="OUTPUT" type="PLAIN_TEXT" />
+      <mapping pattern="Fpm" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="pegjs" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="GraphQL" />
     </extensionMap>
   </component>
 </application>
