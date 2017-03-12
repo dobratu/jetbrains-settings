@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="time-tracker" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
       <mapping pattern="ElFinder" type="PLAIN_TEXT" />
