@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="31ceaa65-eb53-435d-baec-13b3a8a25a71" name="docker" url="http://192.168.56.101">
-        <fileTransfer host="192.168.56.101" port="22" privateKey="C:\Users\michal\AppData\Local\lxss\home\michal\.ssh\id_rsa" rootFolder="/home/michal" accessType="SFTP" keyPair="true">
+        <fileTransfer host="192.168.56.101" port="22" privateKey="C:\Users\michal\AppData\Local\lxss\home\michal\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
           </advancedOptions>
