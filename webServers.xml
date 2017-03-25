@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="50c6ddff-411e-4b62-9176-d384f73f544b" name="31.172.181.3" url="http://31.172.181.3:3000">
-        <fileTransfer host="31.172.181.3" port="22" rootFolder="/home/janusz" accessType="SFTP">
+        <fileTransfer host="31.172.181.4" port="22" rootFolder="/home/janusz" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
