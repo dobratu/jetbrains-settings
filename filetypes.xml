@@ -12,6 +12,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="OUTPUT" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="MySQL" type="PLAIN_TEXT" />
       <mapping pattern="ElFinder" type="PLAIN_TEXT" />
       <mapping pattern="time-tracker" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
