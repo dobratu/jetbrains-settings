@@ -15,6 +15,7 @@
       <mapping pattern="MySQL" type="PLAIN_TEXT" />
       <mapping pattern="ElFinder" type="PLAIN_TEXT" />
       <mapping pattern="time-tracker" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="bck" type="PLAIN_TEXT" />
       <mapping ext="pegjs" type="PLAIN_TEXT" />
