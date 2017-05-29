@@ -6,6 +6,7 @@
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-phpfpm" type="PLAIN_TEXT" />
+      <mapping pattern=".sf" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="Fpm" type="PLAIN_TEXT" />
