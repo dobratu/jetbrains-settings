@@ -3,13 +3,13 @@
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CYCLE_SCROLLING" value="false" />
     <option name="FONT_SCALE" value="1.25" />
-    <option name="FONT_SIZE" value="15" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
     <option name="MAX_LOOKUP_WIDTH2" value="546" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
   </component>
