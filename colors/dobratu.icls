@@ -4,7 +4,7 @@
     <property name="created">2017-02-04T17:07:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-05-02T11:13:51</property>
+    <property name="modified">2017-07-18T10:10:23</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="15" />
@@ -14,6 +14,11 @@
     <option name="RIGHT_MARGIN_COLOR" value="" />
   </colors>
   <attributes>
+    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
+      <value>
+        <option name="BACKGROUND" value="364135" />
+      </value>
+    </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
