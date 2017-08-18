@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="createContext({&#10;    id = 1,&#10;    role = ROLE_EMPLOYEE,&#10;    companyId = 1,&#10;    positionId = 1,&#10;})" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
