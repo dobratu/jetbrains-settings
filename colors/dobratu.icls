@@ -8,7 +8,7 @@
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
