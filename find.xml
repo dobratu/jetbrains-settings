@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.test.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -27,13 +27,13 @@
       <mask>*.testts</mask>
       <mask>*.tet.ts</mask>
       <mask>*.t.ts</mask>
-      <mask>*..ts</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.te</mask>
       <mask>*.tes</mask>
       <mask>*.test</mask>
       <mask>*.test.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
