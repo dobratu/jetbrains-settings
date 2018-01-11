@@ -1,5 +1,8 @@
-<code_scheme name="dobratu">
+<code_scheme name="dobratu" version="173">
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -7,14 +10,13 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
-    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="IMPORTS_WRAP" value="2" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
-    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="GraphQL">
     <indentOptions>
