@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gql" type="GraphQL" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="authenticate" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
@@ -9,11 +11,11 @@
       <mapping pattern="Dockerfile-phpfpm" type="PLAIN_TEXT" />
       <mapping pattern=".sf" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern="OUTPUT" type="PLAIN_TEXT" />
       <mapping pattern="Fpm" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="authenticate" type="PLAIN_TEXT" />
+      <mapping pattern="OUTPUT" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="MySQL" type="PLAIN_TEXT" />
       <mapping pattern="ElFinder" type="PLAIN_TEXT" />
