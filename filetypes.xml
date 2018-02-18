@@ -5,9 +5,10 @@
       <mapping pattern="Dockerfile-phpfpm" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern=".reactrc" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-ubuntu" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="authenticate" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
