@@ -4,7 +4,7 @@
     <property name="created">2018-04-11T20:27:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-04-11T20:27:49</property>
+    <property name="modified">2018-04-11T20:50:06</property>
     <property name="originalScheme">Obsidian copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -34,7 +34,7 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="2f2f2f" />
     <option name="INDENT_GUIDE" value="525557" />
-    <option name="LINE_NUMBERS_COLOR" value="ffffff" />
+    <option name="LINE_NUMBERS_COLOR" value="cccccc" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -250,7 +250,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FOREGROUND" value="fffff2" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -290,12 +290,12 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FOREGROUND" value="fffff2" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="bdad58" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -340,7 +340,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ec7600" />
+        <option name="FOREGROUND" value="b5b5b5" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -480,12 +480,21 @@
         <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value />
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="aeb23e" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="93c763" />
