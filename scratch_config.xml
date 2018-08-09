@@ -11,9 +11,10 @@
         <option value="scratch.ts" />
         <option value="scratch_1.ts" />
         <option value="scratch_2.js" />
+        <option value="scratch2.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.ts" />
+    <option name="lastOpenedScratch" value="scratch.js" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
