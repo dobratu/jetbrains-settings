@@ -20,4 +20,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="python" />
+      <option name="PARAMETERS" value="-c &quot;import re; print re.sub(\&quot; (\w)\&quot;, lambda match: match.group(1).upper(), \&quot;$SelectedText$\&quot;.translate(None, \&quot;'\&quot;));&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
