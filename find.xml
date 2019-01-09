@@ -18,7 +18,7 @@
     <mask>*.t&gt;</mask>
     <mask>*.test.ts</mask>
     <mask>*.graphqls</mask>
-    <mask>*.graphql</mask>
     <mask>*.ts</mask>
+    <mask>*.graphql</mask>
   </component>
 </application>
