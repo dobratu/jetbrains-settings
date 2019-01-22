@@ -15,10 +15,10 @@
       <mapping pattern=".exoframeignore" type="PLAIN_TEXT" />
       <mapping pattern="ec2" type="PLAIN_TEXT" />
       <mapping pattern="install-docker" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern="vat" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose.yml" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-ubuntu" type="PLAIN_TEXT" />
-      <mapping pattern="vat" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
       <mapping pattern="ElFinder" type="PLAIN_TEXT" />
       <mapping pattern=".env.local.dist" type="PLAIN_TEXT" />
@@ -32,6 +32,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".sf" type="PLAIN_TEXT" />
+      <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
