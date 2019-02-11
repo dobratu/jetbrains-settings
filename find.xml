@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -16,7 +18,7 @@
     <mask>*.t&gt;</mask>
     <mask>*.test.ts</mask>
     <mask>*.graphqls</mask>
-    <mask>*.ts</mask>
     <mask>*.graphql</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
