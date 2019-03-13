@@ -15,10 +15,12 @@
       <mapping pattern=".reactrc" type="PLAIN_TEXT" />
       <mapping pattern=".exoframeignore" type="PLAIN_TEXT" />
       <mapping pattern="ec2" type="PLAIN_TEXT" />
+      <mapping pattern="beforeNewEmployeesFirstDay.yml" type="PLAIN_TEXT" />
       <mapping pattern="install-docker" type="PLAIN_TEXT" />
       <mapping pattern="vat" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose.yml" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-ubuntu" type="PLAIN_TEXT" />
+      <mapping pattern="beforeNewEmployeesFirstDay" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="PLAIN_TEXT" />
       <mapping pattern="ElFinder" type="PLAIN_TEXT" />
