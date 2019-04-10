@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gql" type="GraphQL" />
       <mapping pattern="Dockerfile-phpfpm" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="mongo" type="PLAIN_TEXT" />
@@ -35,13 +34,15 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".sf" type="PLAIN_TEXT" />
+      <mapping ext="pegjs" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="h5" type="PLAIN_TEXT" />
       <mapping ext="bck" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
-      <mapping ext="pegjs" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="GraphQL" />
     </extensionMap>
   </component>
 </application>
