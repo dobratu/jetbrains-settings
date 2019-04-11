@@ -42,6 +42,7 @@
       <mapping ext="h5" type="PLAIN_TEXT" />
       <mapping ext="bck" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="gql" type="GraphQL" />
     </extensionMap>
   </component>
