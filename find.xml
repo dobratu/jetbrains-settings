@@ -10,7 +10,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -20,5 +19,6 @@
     <mask>*.graphqls</mask>
     <mask>*.graphql</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
