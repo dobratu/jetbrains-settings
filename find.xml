@@ -16,9 +16,9 @@
     <mask>*.php</mask>
     <mask>*.t&gt;</mask>
     <mask>*.test.ts</mask>
-    <mask>*.graphqls</mask>
     <mask>*.graphql</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.graphqls</mask>
   </component>
 </application>
