@@ -34,6 +34,7 @@
       <mapping pattern="OUTPUT" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignoer" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".sf" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
