@@ -4,7 +4,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gql" type="GraphQL" />
-      <mapping pattern=".exoframeignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignoer" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -30,6 +29,7 @@
       <mapping pattern="mongo" type="PLAIN_TEXT" />
       <mapping pattern="vat" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern=".exoframeignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_lerna" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-phpfpm" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
