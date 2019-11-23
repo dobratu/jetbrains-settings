@@ -1,5 +1,4 @@
 <code_scheme name="dobratu" version="173">
-  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
@@ -17,9 +16,6 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="GraphQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
