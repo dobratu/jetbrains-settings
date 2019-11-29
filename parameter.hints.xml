@@ -5,5 +5,13 @@
         <added pattern="createContext({&#10;    id = 1,&#10;    role = ROLE_EMPLOYEE,&#10;    companyId = 1,&#10;    positionId = 1,&#10;})" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="Vue" />
+      <language id="PHP" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
