@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-gateway" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
     </extensionMap>
