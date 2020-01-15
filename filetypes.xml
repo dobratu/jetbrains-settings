@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-gateway" type="PLAIN_TEXT" />
