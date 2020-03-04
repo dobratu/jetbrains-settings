@@ -2,13 +2,9 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
@@ -19,6 +15,7 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
