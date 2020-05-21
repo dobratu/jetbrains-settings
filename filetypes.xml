@@ -6,9 +6,9 @@
       <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-gateway" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="t" type="TypeScript" />
     </extensionMap>
   </component>
