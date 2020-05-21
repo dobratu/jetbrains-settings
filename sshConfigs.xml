@@ -19,6 +19,9 @@
       <sshConfig authType="PASSWORD" host="89.46.196.50" id="1a40b81a-0b4b-497e-a461-23d7019a6aba" port="22" customName="arubacloud" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="31.172.181.4" id="7275357c-17ae-4764-b45a-c8eb64dd29df" port="22" customName="31.172.181.3" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="192.168.56.101" id="6a4f2559-aa8a-4b46-b1f0-f246abfea133" port="22" customName="vb" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="89.46.196.50" id="d43b2263-6bdb-4d3c-b767-47a9c0b5ecb7" port="22" customName="arubacloud" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="31.172.181.4" id="e18ccbb6-d1a9-4b8d-b360-58e69d0f3204" port="22" customName="31.172.181.3" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.56.101" id="9020acdd-a95e-40e3-9337-6755049e5324" port="22" customName="vb" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
