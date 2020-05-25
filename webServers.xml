@@ -2,27 +2,24 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="fb053e5d-d9ee-4ac5-be66-fc7411325b54" name="arubacloud" url="http://89.46.196.50">
-        <fileTransfer host="89.46.196.50" port="22" accessType="SFTP">
+        <fileTransfer accessType="SFTP" sshConfigId="8d5fef7a-05b9-456b-949b-c632efc2d533" sshConfig="arubacloud">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="50c6ddff-411e-4b62-9176-d384f73f544b" name="31.172.181.3" url="http://31.172.181.3:3000">
-        <fileTransfer host="31.172.181.4" port="22" rootFolder="/home/janusz" accessType="SFTP">
+        <fileTransfer rootFolder="/home/janusz" accessType="SFTP" sshConfigId="f36e4689-9986-4410-ae64-fbf20a1333b4" sshConfig="31.172.181.3">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="8ff99c05-a268-4305-9946-9b59c2719ccf" name="vb" url="http://192.168.56.101">
-        <fileTransfer host="192.168.56.101" port="22" rootFolder="/home/michal" accessType="SFTP">
+        <fileTransfer rootFolder="/home/michal" accessType="SFTP" sshConfigId="80fc286d-9df2-4e61-9656-91e74fbf74c1" sshConfig="vb">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
