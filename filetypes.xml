@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="sw1" type="PLAIN_TEXT" />
-      <mapping pattern="key" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-gateway" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping ext="asc" type="PLAIN_TEXT" />
-      <mapping ext="mjml" type="PLAIN_TEXT" />
+      <mapping pattern="sw1" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="mjml" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="t" type="TypeScript" />
     </extensionMap>
   </component>
