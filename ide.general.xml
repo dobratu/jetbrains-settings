@@ -7,5 +7,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="411" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
+    <entry key="ide.settings.move.mouse.on.default.button" value="true" />
   </component>
 </application>
