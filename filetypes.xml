@@ -9,6 +9,7 @@
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="sw1" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="t" type="TypeScript" />
