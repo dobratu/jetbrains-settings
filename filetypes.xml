@@ -12,8 +12,9 @@
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
-      <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="t" type="TypeScript" />
+      <mapping ext="jinja" type="YAML_EX" />
+      <removed_mapping ext="jinja" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
