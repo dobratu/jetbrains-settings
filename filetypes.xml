@@ -1,8 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
