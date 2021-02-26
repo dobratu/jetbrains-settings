@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="PLAIN_TEXT" />
+      <mapping ext="br" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="t" type="TypeScript" />
