@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
@@ -18,6 +18,10 @@
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="t" type="TypeScript" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
       <mapping ext="jinja" type="YAML_EX" />
       <removed_mapping ext="jinja" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
