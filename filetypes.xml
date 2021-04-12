@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
@@ -20,6 +20,8 @@
       <mapping ext="t" type="TypeScript" />
       <mapping ext="jinja" type="YAML_EX" />
       <removed_mapping ext="jinja" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
