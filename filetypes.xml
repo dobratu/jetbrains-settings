@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="dts" type="TypeScript" />
       <removed_mapping ext="jinja" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
